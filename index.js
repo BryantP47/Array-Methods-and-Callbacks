@@ -71,7 +71,7 @@ function getYears(array,getFinals) {
 
 }
 
-
+ggg
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use the higher-order function getWinners to do the following:  
